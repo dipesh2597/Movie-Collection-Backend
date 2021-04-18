@@ -1,0 +1,36 @@
+{
+    "title": "My Test Collection Updated Title",
+    "description": "My Test Collection Updated Description",
+    "movies": [
+        {
+            "title": "Satana likuyushchiy",
+            "description": "In a small town live two brothers, one a minister and the other one a hunchback painter of the chapel who lives with his wife. One dreadful and stormy night, a stranger knocks at the door asking for shelter. The stranger talks about all the good things of the earthly life the minister is missing because of his puritanical faith. The minister comes to accept the stranger's viewpoint but it is others who will pay the consequences because the minister will discover the human pleasures thanks to, ehem, his sister- in -law… The tormented minister and his cuckolded brother will die in a strange accident in the chapel and later an infant will be born from the minister's adulterous relationship.",
+            "uuid": "9D1200CFDD53A2F826867",
+            "genres": ""
+        },
+        {
+            "title": "Betrayal",
+            "description": "When one of her hits goes wrong, a professional assassin ends up with a suitcase full of a million dollars belonging to a mob boss ...",
+            "uuid": "8C821496B9404878257CA",
+            "genres": "Action,Drama,Thriller"
+        },
+        {
+            "title": "Siglo ng Pagluluwal",
+            "description": "An artist struggles to finish his work while a storyline about a cult plays in his head.",
+            "uuid": "FAF635C6BA21B86B61E0DD",
+            "genres": "Drama"
+        },
+        {
+            "title": "Le locataire diabolique",
+            "description": "A man rents an apartment and furnishes it in remarkable fashion.",
+            "uuid": "F8BD12100CCA4D96FF0BC0C0774A151FD10D22F678D5B8E74A",
+            "genres": "Fantasy,Comedy"
+        },
+        {
+            "title": "Chyornaya Roza - Emblema Pechali, Krasnaya Roza - Emblema Lyubvi",
+            "description": "The story happens mainly around \"The Old Arbat Street\" in the center of Moscow, where always concentrate vendors, poor young artists and musicians. The hero of this film is a boy named Mitiya,who lives with eccentric elder friend in an apartment house on \"The Old Arbat\". In fact, people who then appear around Mitiya are all unique, eccentric and the space of the apartment house begins to have an unrealistic character as a miniature of unstable society in the end of Soviet Union.",
+            "uuid": "F43E0143D52148ACC8EBB1",
+            "genres": "Fantasy,Comedy,Romance,Drama"
+        }
+    ]
+}

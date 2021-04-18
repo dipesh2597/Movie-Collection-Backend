@@ -1,0 +1,64 @@
+{
+    "title":"My Test Collection",
+    "description":"Third COllection",
+    "movies":[{
+            "title": "San Michele aveva un gallo",
+            "description": "Sentenced to life imprisonment for illegal activities, Italian International member Giulio Manieri holds on to his political ideals while struggling against madness in the loneliness of his prison cell.",
+            "genres": "",
+            "uuid": "cc51020f-1bd6-42ad-84e7-e5c0396435a8"
+        },
+        {
+            "title": "The Morning After",
+            "description": "The Morning After is a feature film that consists of 8 vignettes that are inter-cut throughout the film. The 8 vignettes are about when you wake up next to someone the next morning...",
+            "genres": "Comedy,Drama",
+            "uuid": "9a4fcb67-24f6-4cda-8f49-ad66b689f481"
+        },
+        {
+            "title": "Maa",
+            "description": "The bliss of a biology teacher’s family life in Delhi is shattered when her daughter, Arya  is physically assaulted by Jagan and gang. Does Devki Sabarwal wait for the law to take its course? Or does Devki become Maa Durga and hunt down the perpetrators of the crime?",
+            "genres": "Crime,Drama,Thriller",
+            "uuid": "587a1f5b-d36a-41a3-8bf8-ea0788ebc752"
+        },
+        {
+            "title": "Deep Hearts",
+            "description": "Deep Hearts is a film about the Bororo Fulani, a nomadic society located in central Niger Republic and the title is a reference to an important aspect of these people’s thought and demeanor.",
+            "genres": "Documentary",
+            "uuid": "39409bc2-85e7-4a2c-a236-956dda88cfda"
+        },
+        {
+            "title": "Nouvelles luttes extravagantes",
+            "description": "A series of fantastical wrestling matches.",
+            "genres": "Comedy,Fantasy",
+            "uuid": "befbf9f7-0ec0-48ad-b77c-2ba2a84bfe5c"
+        },
+        {
+            "title": "L'Homme orchestre",
+            "description": "A band-leader has arranged seven chairs for the members of his band. When he sits down in the first chair, a cymbal player appears in the same chair, then rises and sits in the next chair. As the cymbal player sits down, a drummer appears in the second chair, and then likewise moves on to the third chair. In this way, an entire band is soon formed, and is then ready to perform.",
+            "genres": "Fantasy,Action,Thriller",
+            "uuid": "cc75c16e-c72d-444f-93db-1b8764555be0"
+        },
+        {
+            "title": "Pooh's Heffalump Halloween Movie",
+            "description": "It's Halloween in the 100 Acre Wood, and Roo's best new friend, Lumpy, is looking forward to his first time trick-or-treating. That is, until Tigger warns them about the scary Gobloon, who'll turn them into jack-o'-lanterns if he catches them. But if Roo and Lumpy turn the tables on the Gobloon, they get to make a wish! Lumpy and Roo decide to be \"brave together, brave forever\" and catch the Gobloon so they can make their wishes come true.",
+            "genres": "Animation,Family",
+            "uuid": "d2c99a80-1360-4872-8735-d8d1461e0e8f"
+        },
+        {
+            "title": "Les Transmutations imperceptibles",
+            "description": "This shows a prince entering upon the stage of the King's private theatre. He is about to do a few mystifying tricks for the amusement of the court.",
+            "genres": "",
+            "uuid": "13ecfdcc-1680-44d8-a9e7-a0d4c6e9386a"
+        },
+        {
+            "title": "Le Roi du maquillage",
+            "description": "The background of this picture represents a scene along the beautiful river Seine in Paris. A gentleman enters, and taking a blackboard from the side of the picture, he draws on it a sketch of a novelist. Then, standing in the centre, he causes the living features of his sketch to appear in the place of his own, which is utterly devoid of whiskers. The change is made so mysteriously that the eye cannot notice it until one sees quite another person in the place of the first. Again another sketch is shown on the board, this one being that of a miser; then an English cockney; a comic character; a French policeman, and last of all, the grinning visage of Mephistopheles. It is almost impossible to give this film a more definite description; suffice it to say that it is something entirely new in motion pictures and is sure to please. Written by Méliès Catalog",
+            "genres": "",
+            "uuid": "dd74504d-dc41-4c75-9fc3-3518ded48ff8"
+        },
+        {
+            "title": "Le locataire diabolique",
+            "description": "A man rents an apartment and furnishes it in remarkable fashion.",
+            "genres": "Fantasy,Comedy",
+            "uuid": "3d9f7f3f-08bf-4200-b66f-d29976683a5f"
+        }]
+}
